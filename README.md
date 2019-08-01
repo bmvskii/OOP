@@ -1,4 +1,4 @@
-# OOP in C++
+# OOP Course written with C++
 
 There are some tasks of four topics of OOP.
 
@@ -7,4 +7,4 @@ There are some tasks of four topics of OOP.
 - A composition in classes
 - Inheritance (base class, protected, pure virtual methods, override, virtual destructor, dynamical type cast) 
 
-Author: Evgeniy Rogovoy , NURE, 2016
+Author: Evgeniy Rogovoy, NURE, 2016
